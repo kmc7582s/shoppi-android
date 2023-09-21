@@ -13,5 +13,7 @@ dependencyResolutionManagement {
     }
 }
 
+
+
 rootProject.name = "shoppi-android"
 include(":app")
