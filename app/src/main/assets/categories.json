@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "category_id": "fashion-female",
+      "label": "여성패션",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/f264cea9-a9e2-4ed3-848b-5d7c239111ac",
+      "updated": false
+    },
+    {
+      "category_id": "fashion-male",
+      "label": "남성패션",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/963de643-70db-4de6-9b16-f2a96524eefd",
+      "updated": false
+    },
+    {
+      "category_id": "kids",
+      "label": "유아동",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/b0e26d1b-01ee-4b36-af41-f6029a5d2d0d",
+      "updated": false
+    },
+    {
+      "category_id": "electronics",
+      "label": "가전/디지털",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/abcab3c1-5a37-4418-aaa5-5246130f2781",
+      "updated": false
+    },
+    {
+      "category_id": "furniture",
+      "label": "가구/인테리어",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/a3853193-dab8-43c6-835d-f3c77176c78a",
+      "updated": true
+    },
+    {
+      "category_id": "sports",
+      "label": "스포츠/레저",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/df4c3441-f76b-4695-bc84-6671abae71c2",
+      "updated": false
+    },
+    {
+      "category_id": "books",
+      "label": "도서/음반",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/951b8a0c-713b-4e0b-9d44-657a97c299ef",
+      "updated": false
+    },
+    {
+      "category_id": "pets",
+      "label": "반려동물",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/65d056ec-fbe2-4946-bb6f-5fd680a48deb",
+      "updated": false
+    },
+    {
+      "category_id": "car",
+      "label": "자동차",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/947c3498-6baa-4160-ab97-f5dae664ee92",
+      "updated": false
+    },
+    {
+      "category_id": "fancy-goods",
+      "label": "잡화",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/0c9e5dfa-c2c4-42d7-b845-8e3934a69212",
+      "updated": false
+    },
+    {
+      "category_id": "food",
+      "label": "식품",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/966acc0b-e3a4-44dd-81c5-5a92ba1c9cf3",
+      "updated": false
+    },
+    {
+      "category_id": "beauty",
+      "label": "뷰티",
+      "thumbnail_image_url": "https://github.com/kmc7582s/shoppi-android/assets/76563710/9a4a56ea-5e43-46ca-8438-44067d354017",
+      "updated": true
+    }
+  ]
+}
